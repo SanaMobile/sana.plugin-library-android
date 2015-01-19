@@ -1,0 +1,13 @@
+CONTRIBUTORS
+============
+Many thanks to
+
+Cao Luu Quang
+Chen Xi
+Dong Yanfei
+Han Lin
+Zhao Yue
+
+for their work in developing the initial version of this library.
+
+Additional contributions:
